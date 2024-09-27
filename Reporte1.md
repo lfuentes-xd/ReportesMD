@@ -70,13 +70,14 @@ veamos algunos ejemplos
 
 
 ademas podemos poner fragmentos de codigo. 
+
 ```ts
 const suma = (a, b):number => {
     return a + b;
 }
 ```
 
-y podemos hacer muchas cosas mas, pero no podriamos llenarlo todo en un solo documento... mas adelante veremos otras tecnicas para hacer más cosas. 
+y podemos hacer muchas cosas mas, pero no podriamos llenarlo todo en un solo documento... mas adelante veremos otras técnicas y/o sintaxis, debido a que tiene una gran similitud con HTML es muy versatil, pero conforme vayamos pasando los días encontraremos mas cosas. 
 
 
 --------------------------------------------------------------
