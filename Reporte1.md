@@ -168,7 +168,7 @@ const Graph = () => {
 export default Graph
 ```
 
-![Grafica usando la libreria Echart](grafica.jpg)
+![Grafica usando la libreria Echart](../Reportes/Imagenes/grafica.jpg)
 
 
 -------
@@ -244,7 +244,7 @@ para que este funcione lo corremos, y nos da las direccion para realizar las pru
 
 <center>
 
-![Imagen del request](request.png)
+![Imagen del request](../Reportes/Imagenes/request.png)
 
 </center>
 
@@ -384,7 +384,7 @@ export default Weigth;
 ```
 por lo que ahora podemos mostrar los datos en react. 
 
-![Imagen de la grafica desde python a react](graficaReact.jpg)
+![Imagen de la grafica desde python a react](../Reportes/Imagenes/graficaReact.jpg)
 
 ---- 
 
@@ -475,7 +475,7 @@ export default function Layout() {
 ```
 para terminar viendose asi. 
 
-![Imagen de la grafica desde python a react con React Router Dom](Router.png)
+![Imagen de la grafica desde python a react con React Router Dom](../Reportes/Imagenes/Router.png)
 
 ----------
 
