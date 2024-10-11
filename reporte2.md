@@ -12,7 +12,7 @@
 #### ¿qué es tailwind css? 
 
 
-![logo de tailwind css](../Reportes/Imagenes/Tailwind_CSS_Logo.jpg)
+![logo de tailwind css](../ReportesMD//Imagenes/Tailwind_CSS_Logo.jpg)
 
 tailwind es una Library de css de codigo abierto muy ampliamente usada en todo el mundo por su versatilidad y por ser diferemte a Boostrap, que tiene estilos ya predefinidos o componentes ya hechos por lo que los sitios hechos con boostrap son muy similares entre si, a diferencia de tailwind con el que podemos crear nuestros propios estilos. 
 
