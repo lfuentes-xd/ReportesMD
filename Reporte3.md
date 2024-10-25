@@ -210,11 +210,11 @@ y seguimos los pasos tal cual nos marca la pagina.
 para la interfaz grafica descargamos la aplicacion desde su pagina oficial. 
 
 
-![descarga de podman](../ReportesMD/Imagenes/podman.png)
+![descarga de podman](../Reportes/Imagenes/podman.png)
 
 y si todo se hizo correcto podremos ver una vista asi. 
 
-![finalizada](../ReportesMD/Imagenes/instalacion_Podman.png)
+![finalizada](../Reportes/Imagenes/instalacion_Podman.png)
 
 una vez hecho lo anterior, necesitamos comprobar que tengamos lo necesario para poder poner nuestra app en un contenedor. 
 
@@ -222,7 +222,7 @@ en este caso nos falta. python por lo que se instala y ya, (en ocasiones ya vien
 
 <center>
 
-![comprobación](../ReportesMD/Imagenes/comprobacion.png)
+![comprobación](../Reportes/Imagenes/comprobacion.png)
 
 </center>
 
@@ -318,7 +318,7 @@ y una vez que este corra lo puede ver asi ...
 
 <center>
 
-![contenedor en podman](../ReportesMD/Imagenes/ContenedorCorriendo.png)
+![contenedor en podman](../Reportes/Imagenes/ContenedorCorriendo.png)
 
 </center>
 
@@ -327,7 +327,7 @@ y un navegador asi ...
 
 <center>
 
-![comprobación del contenedor](../ReportesMD/Imagenes/contenedorFuncionando.png)
+![comprobación del contenedor](../Reportes/Imagenes/contenedorFuncionando.png)
 
 </center>
 
